@@ -1,0 +1,235 @@
+ *{
+	 margin: 0px;
+	 padding: 0px;
+ }
+ 
+ div#container{
+	 background-color: #ceceb1;
+	 width: 1062px;
+	 height: 800px;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+	 margin-left: auto;
+	 margin-right: auto;
+ }
+ div#container2{
+	 background-color: #ceceb1;
+	 width: 1062px;
+	 height: 1300px;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+	 margin-left: auto;
+	 margin-right: auto;
+ }
+ div#container3{
+	 background-color: #ceceb1;
+	 width: 1062px;
+	 height: 1200px;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+	 margin-left: auto;
+	 margin-right: auto;
+ }
+ 
+ img#pic{
+	position: relative;
+	left: 680px;
+	top: -230px;
+}
+
+img#pic1{
+	position:relative;
+	left: 150px;
+	top: 50px;
+}
+
+img#pic2{
+	position:relative;
+	left: 260px;
+	top: 50px;
+}
+
+img#face{
+	position:relative;
+	left: 500;
+	top: -70;
+}
+
+img#insta{
+	position:relative;
+	left: 550;
+	top: -70;
+}
+img#picKarate{
+	position:relative;
+	left:722px;
+	top:-280;
+}
+img#picKatasztr{
+	position:relative;
+	
+	top:150px;
+	
+}
+img#picMZ{
+	position:relative;
+	top:500pc;
+	
+}
+.p{
+	margin-left:170px;
+	margin-top:-200px;
+}
+
+ ul#menu div{
+	 width: 223px;
+	 height: auto;
+	 padding: 20px;
+	 text-align: justify;
+	 text-align: center;
+	 border-top: 2px solid #291400;
+	 border-right: 2px solid #291400;
+	 border-bottom: 2px solid #291400;
+	 margin-top: 1px;
+	 cursor: pointer;
+ }
+
+.nagybetu {
+	font-size: 20px;
+}
+.nagybetu2{
+	font-size: 22px;
+}
+
+
+ul#menu div.aktivmenu {
+	background-color: #000;
+	font-family: Arial;
+}
+
+ul#menu div.inaktivmenu {
+	background-color: #333;
+	font-family: Arial;
+}
+
+ ul#menu{
+	 margin-top: 10px;
+	 list-style: none;
+ }
+
+ ul#menu li{
+	 float: left;
+ }
+
+.link:hover{
+	color: white;
+	text-decoration: none;
+	background-color: #000;
+	font-size: 16px;
+	font-family: Arial;
+}
+ 
+ ul#menu li:first-child div{
+	 border-left: 2px solid #000;
+ }
+ 
+ 
+ ul#menu li div a{
+	 color: #ffcc00 ;
+	 text-decoration: none; 
+ }
+ 
+ ul#menu li div:hover{
+	 border-color: #1C0E00;
+	 background-color: #000;
+	 font-size: 20px;
+ }
+
+ ul#menu li div:hover a{
+	 color: #CCCC00;
+ }
+ 
+ div#clear{
+	 clear: both;
+ }
+ div#content{
+	 width: 1050 px;
+	 margin: 40px auto 0px auto;
+	 color:#FFFFD1;
+	 text-align: justify;
+	 text-align:center;
+	 background-color: #949494
+ }
+ div#content h1{
+	 margin-bottom:  10px;
+ }
+ body{
+	 background-image: url('2.jpg');
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 background-size: 100% 100%;
+	 
+ }
+ div#bemutat{
+	 margin-left: 20px;
+	 margin-right: 20px;
+ }
+ 
+ ul.emailcim{
+	 list-style-type: square;
+ }
+ .email{
+	 color: blue;
+	 position: relative;
+	 left: 50px;
+ }
+ .port{
+	 text-align: justify;
+	 position:relative;
+	 text-align: center;
+	 top: 7px;
+	 font-size: 27px;
+	 color: blue;
+	 font-family: Goudy Stout; 
+	 border-left: 30px;
+ }
+ img#mail{
+	 position:relative;
+	 left: -190;
+	 top: -133;
+ }
+ img#call{
+	 position:relative;
+	 left: -219;
+	 top: -97;
+ }
+.center{
+	text-align: center;
+}
+.table {
+	border: 1px solid #ddd;
+	border-width: 0 1px 1px 0;
+	height: auto;
+	background: #3c4870;
+    color: #fff;
+	height: 20px;
+}
+.table2{
+	background: #949494;
+	height: 30px;
+}
+
+.tms{
+	font-family: Trebuchet MS;
+}
+
+
+
+
+ 
+
+
+
+ 
+
+ 
